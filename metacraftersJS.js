@@ -45,7 +45,7 @@ function getTotalSupply() {
     console.log("\n Total number of NFTs minted:",someNFTs.length);
 }
 
-// call your functions below this line
+
 mintNFT("Rock","Almond","Round","Sweater","Joggers","Gold Bracelet");
 mintNFT("Bonnie","Siren","Oval","T-shirt","Cargos","Silver Pendant");
 mintNFT("Shawn","Almond","Heart","Cardigan","Trousers","Platinum Ring");
