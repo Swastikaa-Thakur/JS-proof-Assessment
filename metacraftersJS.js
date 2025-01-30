@@ -27,7 +27,7 @@ console.log("Minted "+name);
 }
 
 // create a "loop" that will go through an "array" of NFT's
-// and print their metadata with console.log()
+
 function listNFTs () {
     for(i=0;i<someNFTs.length;i++){
         console.log("\n-----------------------------\n\n NFT ID: \t\t\t" + (i + 1));
